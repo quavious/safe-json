@@ -28,5 +28,13 @@
     "dev": "ts-node script/test.ts",
     "watch": "parcel src/index.ts",
     "build": "parcel build src/index.ts"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quavious/safe-json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/quavious/safe-json.git/issues"
+  },
+  "homepage": "https://github.com/quavious/safe-json.git#readme"
 }
