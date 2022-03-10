@@ -1,5 +1,5 @@
 {
-  "name": "safe-json",
+  "name": "@nw.lee/safe-json",
   "version": "0.1.0",
   "description": "The functions help to parse JavaScript, TypeScript, JSON Objects safely.",
   "source": "src/index.ts",
